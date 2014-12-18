@@ -15,6 +15,7 @@ public class Testing_github {
      */
     public static void main(String[] args) {
         for(int i=0 ; i<5 ;i++)
-            System.out.println("Testing Githubs");
+            System.out.println("Testing Github");
+            System.out.println("ya benar");
     }
 }
